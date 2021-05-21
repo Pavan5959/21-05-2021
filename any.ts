@@ -1,7 +1,10 @@
-1. let val: any = 'Hi';  
+
+let val: any = 'Hi';  
       val = 555;   // OK  
       val = true;   // OK           
-2. function ProcessData(x: any, y: any) {  
+
+
+ function ProcessData(x: any, y: any) {  
                        return x + y;  
             }  
             let result: any;  
